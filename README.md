@@ -4,7 +4,9 @@
 
 ## Data flow 
 1.We are going to send request using axios in React.
+
 2.Recieving data from API and store it.
+
 3.Render the data.
 
 ## Functions support data flow 
