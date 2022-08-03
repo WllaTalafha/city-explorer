@@ -7,8 +7,6 @@ import DisplayedInfo from './component/DisplayedInfo';
 import Map from './component/Map';
 
 class App extends React.Component {
-
-
   constructor(props) {
     super(props)
     this.state= {
@@ -23,6 +21,7 @@ class App extends React.Component {
 
   displayLocation = async (event) => {
     event.preventDefault();
+
     let userInput = event.target.nameField.value;
     let requestUrl = `https://eu1.locationiq.com/v1/search?key=${process.env.REACT_APP_LOCATION_KEY}&q=${userInput}&format=json`;
 
@@ -44,7 +43,6 @@ class App extends React.Component {
         showErr : true,
         });
     }
-
 
   }
 
