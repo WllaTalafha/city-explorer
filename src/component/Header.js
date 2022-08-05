@@ -1,14 +1,15 @@
 import React from 'react';
 
-class Header extends React.Component {
-    render(){
-        return(
-           <div>
-            
-            <h1>map explorer</h1>
 
-            </div>
-        )
-    }
+class Header extends React.Component {
+
+  render() {
+    return (
+      <div className='header'>
+        <h1> WORLD City Explorer </h1>
+      </div>
+    )
+  }
 }
+
 export default Header;
