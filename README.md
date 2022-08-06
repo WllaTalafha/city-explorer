@@ -36,7 +36,7 @@ I really appreciate his collaborations.
 
 ---------------------------------------------
 
-Name of feature: map lab 06
+Name of feature: lab 06 - front end location map
 
 Estimate of time needed to complete: 2
 
@@ -48,7 +48,7 @@ Actual time needed to complete: 1 hour
 
 ---
 
-Name of feature: lab 07
+Name of feature: lab 07 -local API server
 
 Estimate of time needed to complete: 3
 
@@ -60,7 +60,7 @@ Actual time needed to complete: 1:30 hour
 
 ---
 
-Name of feature: lab 08
+Name of feature: lab 08 - outer API
 
 Estimate of time needed to complete: 3:30
 
